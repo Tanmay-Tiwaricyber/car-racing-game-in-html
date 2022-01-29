@@ -10,7 +10,6 @@ Chrome (v19+) works great, 60fps at high res... provided you dont have a bad GPU
 IE9 - ok, 30fps at medium res... not great, but at least it works
 The current state of mobile browser performance is pretty dismal. Dont expect this to be playable on any mobile device.
 
-this game is made by Tanmay Tiwari. 
 if anyone need setup file of this source code goto : https://github.com/Tanmay-Tiwaricyber/car-racing-game-in-html-setupe-file
 
 
