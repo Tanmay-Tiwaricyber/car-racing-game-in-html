@@ -2,7 +2,7 @@
 ![Chocolatey](https://img.shields.io/chocolatey/dt/telegram?color=red&logo=github)
 # car-racing-game-in-html-by-Tanmay-Tiwari
 
-Play This Game at carracinggamebytanmaytiwari.netlify.app
+Play This Game at https://carracinggamebytanmaytiwari.netlify.app/
 
 
 The performance of this game is very machine/browser dependent. It works quite well in modern browsers, especially those with GPU canvas acceleration, but a bad graphics driver can kill it stone dead. So your mileage may vary. There are controls provided to change the rendering resolution and the draw distance to scale to fit your machine.
